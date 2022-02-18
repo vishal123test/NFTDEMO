@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x2317a52bf363B020E924209ae61a204B5dA8D5EF",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x2317a52bf363b020e924209ae61a204b5da8d5ef",
+  "NETWORK": {
+    "NAME": "Ropsten",
+    "SYMBOL": "ETH",
+    "ID": 3
+  },
+  "NFT_NAME": "The TestNFT",
+  "SYMBOL": "TNFT",
+  "MAX_SUPPLY": 200,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/testnft101-x1ipe4u8gh",
+  "SHOW_BACKGROUND": true
+}
